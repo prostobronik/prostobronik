@@ -1,4 +1,14 @@
-### Hi there 👋
+
+<h1 align="center">Hi there, I'm <a href="https://vk.com/im?peers=49108975" target="_blank">Nikita</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I am a front-end developer from Russia 🇷🇺</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prostobronik)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protobronik&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
+
+## Информация о себе
+
 
 <!--
 **prostobronik/prostobronik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
