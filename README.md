@@ -9,7 +9,7 @@
 
 - :zap: I am engaged in front-end development of websites and applications.
 
-- :mailbox:How to reach me: <tiunovnikit@yandex.ru>
+- :mailbox:How to reach me: <nik.nekit.14@mail.ru>
 
 ---
 
